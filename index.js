@@ -1,1 +1,9 @@
-const string = "Hello World".replace(/ /g,"_");;
+
+
+function seperate(string, seperator) {
+    return string.replace(/ /g, seperator);
+}
+
+module.exports = {
+    seperate
+}
