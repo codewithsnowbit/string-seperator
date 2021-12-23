@@ -45,7 +45,7 @@ const seperator = require('string-seperator')
 
 const input = "Merry Christmas"
 
-console.log(seperator.seperate(input, '🎁')
+console.log(seperator.seperate(input, '🎁'))
 // Output: Merry🎁Christmas
 ```
 

@@ -1,6 +1,6 @@
 {
   "name": "string-seperator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Separates given string with any operator, letter or emoji",
   "main": "index.js",
   "scripts": {
