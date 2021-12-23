@@ -1,7 +1,7 @@
 {
   "name": "string-seperator",
   "version": "1.0.0",
-  "description": "Seperates given string with any operator, letter or emoji",
+  "description": "Separates given string with any operator, letter or emoji",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

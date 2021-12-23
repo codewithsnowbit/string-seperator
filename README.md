@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/snowbit-coderboi?label=Follow%20Me&style=social)](https://github.com/snowbit-coderboi)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNTKqF1vhFYX_v0ERnUa1RQ?label=Subscribe%20Now&style=social)](https://www.youtube.com/channel/UCNTKqF1vhFYX_v0ERnUa1RQ)
 
-**Seperates given string with any operator, letter or emoji**
+**Separates given string with any operator, letter or emoji**
 
 Check out [NPM Package](https://www.npmjs.com/package/string-seperator)
 
